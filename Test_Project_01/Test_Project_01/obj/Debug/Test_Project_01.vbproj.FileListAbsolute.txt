@@ -1,0 +1,76 @@
+E:\WingShoeProjct\Test_Project_01\Test_Project_01\bin\Debug\Test_Project_01.exe.config
+E:\WingShoeProjct\Test_Project_01\Test_Project_01\bin\Debug\Test_Project_01.exe
+E:\WingShoeProjct\Test_Project_01\Test_Project_01\bin\Debug\Test_Project_01.pdb
+E:\WingShoeProjct\Test_Project_01\Test_Project_01\bin\Debug\Test_Project_01.xml
+E:\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\Test_Project_01.frmMain.resources
+E:\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\Test_Project_01.Resources.resources
+E:\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\Test_Project_01.vbproj.GenerateResource.Cache
+E:\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\Test_Project_01.exe
+E:\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\Test_Project_01.xml
+E:\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\Test_Project_01.pdb
+D:\Learning\ICT Diploma\VB Project\WingShoeProjct\Test_Project_01\Test_Project_01\bin\Debug\Test_Project_01.exe.config
+D:\Learning\ICT Diploma\VB Project\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\Test_Project_01.exe
+D:\Learning\ICT Diploma\VB Project\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\Test_Project_01.xml
+D:\Learning\ICT Diploma\VB Project\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\Test_Project_01.pdb
+D:\Learning\ICT Diploma\VB Project\WingShoeProjct\Test_Project_01\Test_Project_01\bin\Debug\Test_Project_01.exe
+D:\Learning\ICT Diploma\VB Project\WingShoeProjct\Test_Project_01\Test_Project_01\bin\Debug\Test_Project_01.pdb
+D:\Learning\ICT Diploma\VB Project\WingShoeProjct\Test_Project_01\Test_Project_01\bin\Debug\Test_Project_01.xml
+D:\Learning\ICT Diploma\VB Project\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\Test_Project_01.frmDashboard.resources
+D:\Learning\ICT Diploma\VB Project\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\Test_Project_01.frmMain.resources
+D:\Learning\ICT Diploma\VB Project\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\Test_Project_01.Resources.resources
+D:\Learning\ICT Diploma\VB Project\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\Test_Project_01.vbproj.GenerateResource.Cache
+D:\Learning\ICT Diploma\VB Project\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\Test_Project_01.vbprojResolveAssemblyReference.cache
+D:\Learning\ICT Diploma\VB Project\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\Test_Project_01.frmAddNewCustomer.resources
+D:\Learning\ICT Diploma\VB Project\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\Test_Project_01.frmCustomerUpdate.resources
+D:\Learning\ICT Diploma\VB Project\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\Test_Project_01.frmOrderContain.resources
+D:\Learning\ICT Diploma\VB Project\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\Test_Project_01.frmViewInventory.resources
+D:\Learning\ICT Diploma\VB Project\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\Test_Project_01.frmViewOrder.resources
+D:\Learning\ICT Diploma\VB Project\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\Test_Project_01.frmViewOrderHistory.resources
+D:\Learning\ICT Diploma\VB Project\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\RdlCompile.cache
+D:\Learning\ICT Diploma\VB Project\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\RdlCompile.compiled
+E:\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\Test_Project_01.vbprojResolveAssemblyReference.cache
+E:\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\Test_Project_01.frmCustomerUpdate.resources
+E:\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\Test_Project_01.frmDashboard.resources
+E:\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\Test_Project_01.frmViewInventory.resources
+E:\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\Test_Project_01.frmViewOrder.resources
+E:\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\Test_Project_01.frmInvoicePrint.resources
+E:\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\RdlCompile.cache
+E:\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\RdlCompile.compiled
+E:\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\Test_Project_01.frmReportOrderHistory.resources
+E:\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\Test_Project_01.frmReportCustomerList.resources
+E:\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\Test_Project_01.frmReportInventory.resources
+E:\VB\WingShoeProjct\Test_Project_01\Test_Project_01\bin\Debug\Test_Project_01.exe.config
+E:\VB\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\Test_Project_01.exe
+E:\VB\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\Test_Project_01.xml
+E:\VB\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\Test_Project_01.pdb
+E:\VB\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\Test_Project_01.vbprojResolveAssemblyReference.cache
+E:\VB\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\Test_Project_01.frmCustomerUpdate.resources
+E:\VB\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\Test_Project_01.frmDashboard.resources
+E:\VB\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\Test_Project_01.frmInvoicePrint.resources
+E:\VB\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\Test_Project_01.frmMain.resources
+E:\VB\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\Test_Project_01.frmOrderContain.resources
+E:\VB\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\Test_Project_01.frmReportCustomerList.resources
+E:\VB\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\Test_Project_01.frmReportInventory.resources
+E:\VB\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\Test_Project_01.frmReportOrderHistory.resources
+E:\VB\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\Test_Project_01.frmViewInventory.resources
+E:\VB\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\Test_Project_01.frmViewOrder.resources
+E:\VB\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\Test_Project_01.Resources.resources
+E:\VB\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\Test_Project_01.vbproj.GenerateResource.Cache
+E:\VB\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\RdlCompile.cache
+E:\VB\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\RdlCompile.compiled
+E:\VB\WingShoeProjct\Test_Project_01\Test_Project_01\bin\Debug\Test_Project_01.exe
+E:\VB\WingShoeProjct\Test_Project_01\Test_Project_01\bin\Debug\Test_Project_01.pdb
+E:\VB\WingShoeProjct\Test_Project_01\Test_Project_01\bin\Debug\Test_Project_01.xml
+E:\VB\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\Test_Project_01.frmItemAdd.resources
+E:\VB\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\Test_Project_01.frmInvoiceEdit.resources
+E:\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\Test_Project_01.frmInvoiceEdit.resources
+E:\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\Test_Project_01.frmItemAdd.resources
+E:\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\Test_Project_01.frmAddNewCustomer.resources
+E:\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\Test_Project_01.frmLogin.resources
+E:\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\Test_Project_01.frmShoeSearch.resources
+E:\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\Test_Project_01.frmMainDashboard.resources
+E:\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\Test_Project_01.frmAddQuantity.resources
+E:\Backup\WingShoeProjct\Test_Project_01\Test_Project_01\bin\Debug\Test_Project_01.exe.config
+E:\Backup\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\Test_Project_01.exe
+E:\Backup\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\Test_Project_01.xml
+E:\Backup\WingShoeProjct\Test_Project_01\Test_Project_01\obj\Debug\Test_Project_01.pdb
