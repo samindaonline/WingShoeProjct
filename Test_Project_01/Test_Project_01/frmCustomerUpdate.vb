@@ -105,20 +105,26 @@ Public Class frmCustomerUpdate
 
         If n1 = vbYes Then
             'If strSearch = "1" Then
-            Dim rowToDelete As DataRow = dsCustomer.Tables("Customer").Select("cTP = '" & txtTP.Text & "'")(0)
-            rowToDelete.Delete()
-            'Else
-            'dsCustomer.Tables("Customer").Rows(n).Delete()
-            'End If
+            Dim deleteCommand As New OleDbCommand("DELETE FROM tblCustomer WHERE cTP = @sDesignID", con)
+            deleteCommand.Parameters.AddWithValue("@sDesignID", txtTP.Text)
 
-            con.Open()
-            adCustomer.Update(dsCustomer, "Customer")
-            con.Close()
+            adCustomer.DeleteCommand = deleteCommand
 
-            loadDb()
-            n = 0
-            showRecords()
-            MessageBox.Show("Record deleted successfully.",Me.Text,MessageBoxButtons.OK,MessageBoxIcon.Information)
+            Dim rowToDelete As DataRow = dsCustomer.Tables("Customer").Select("cTP = '" & txtTP.Text & "'").FirstOrDefault()
+
+            If rowToDelete IsNot Nothing Then
+                rowToDelete.Delete()
+
+                con.Open()
+                adCustomer.Update(dsCustomer, "Customer")
+                con.Close()
+                loadDb()
+                n = 0
+                showRecords()
+                MessageBox.Show("Record deleted successfully.", Me.Text, MessageBoxButtons.OK, MessageBoxIcon.Information)
+            Else
+                MessageBox.Show("Record not found.", Me.Text, MessageBoxButtons.OK, MessageBoxIcon.Information)
+            End If
         Else
             MessageBox.Show("Record not deleted.", Me.Text, MessageBoxButtons.OK, MessageBoxIcon.Information)
         End If
